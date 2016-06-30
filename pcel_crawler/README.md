@@ -9,3 +9,7 @@
 
 # Iniciar un nuevo spider
 	scrapy genspider <nombre> <dominio>
+
+# Reto
+	- Crear un spider llamado `sismos` con el dominio `www.ssn.unam.mx`
+	- Obtener los sismos recientes
